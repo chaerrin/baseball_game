@@ -1,6 +1,6 @@
 # 숫자 야구 게임 프로그램
 
-![app](https://user-images.githubusercontent.com/114633626/214784901-9e4fe956-0401-416e-9445-22a468e80816.png)
+![game](https://user-images.githubusercontent.com/114633626/215005504-18d80713-80f2-4445-9f5e-cd7cb15bcc5c.png)
 
  ## 숫자야구게임
   #### 프로젝트 설명
@@ -15,6 +15,3 @@
    제작 기간 : 2주 <br />
    참여 인원 : 1명 <br />
    사용 기술 : C++
-
-  #### 실행 영상
-   https://user-images.githubusercontent.com/114633626/214788882-0d682379-9cb0-4af5-b653-3a6c9206254d.mp4
